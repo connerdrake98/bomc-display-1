@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bomc-display-1/static/css/main.b060dfa5.css",
+    "main.js": "/bomc-display-1/static/js/main.159cc937.js",
+    "static/js/787.46614384.chunk.js": "/bomc-display-1/static/js/787.46614384.chunk.js",
+    "static/media/Nephi_banner.jpg": "/bomc-display-1/static/media/Nephi_banner.5b6c95dbbbf42957c6e6.jpg",
+    "static/media/capt_moroni.jpg": "/bomc-display-1/static/media/capt_moroni.f2c8487b6a2061722f5f.jpg",
+    "static/media/SC-Book-Of-Mormon-Central-Favicon-Black-32px.png": "/bomc-display-1/static/media/SC-Book-Of-Mormon-Central-Favicon-Black-32px.23fa2029d7bddc7d2f33.png",
+    "index.html": "/bomc-display-1/index.html",
+    "main.b060dfa5.css.map": "/bomc-display-1/static/css/main.b060dfa5.css.map",
+    "main.159cc937.js.map": "/bomc-display-1/static/js/main.159cc937.js.map",
+    "787.46614384.chunk.js.map": "/bomc-display-1/static/js/787.46614384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b060dfa5.css",
+    "static/js/main.159cc937.js"
+  ]
+}
