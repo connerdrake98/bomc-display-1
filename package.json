@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build --src 'src' --base-href '/bomc-display-1/'"
+    "deploy": "gh-pages -d build --src 'src' --baseName '/bomc-display-1/'"
   },
   "eslintConfig": {
     "extends": [
