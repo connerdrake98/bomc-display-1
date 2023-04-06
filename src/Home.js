@@ -13,9 +13,6 @@ const Home = () => {
           way to help each voice in the Book of Mormon come to life.
         </p>
       </div>
-      <div>
-        <SpeakerListShort/>
-      </div>
     </div>
    );
 }
