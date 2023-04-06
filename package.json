@@ -1,7 +1,7 @@
 {
   "name": "bom-voices",
   "version": "0.1.0",
-  "homepage": "https://connerdrake98.github.io",
+  "homepage": "https://connerdrake98.github.io/bomc-display-1/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -13,12 +13,13 @@
     "react-router-dom": "^6.9.0",
     "web-vitals": "^2.1.4"
   },
+  "src": "src",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build --src"
   },
   "eslintConfig": {
     "extends": [
